@@ -1,0 +1,1 @@
+.required-field:after{content:' *';color:red}.invalid-field{border:1px solid red}#error-message{display:none}
